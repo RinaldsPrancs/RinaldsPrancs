@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rinalds and I'm a Laravel enthusiast, from Latvia.</p>
+<p align="left">My name is Rinalds and I'm a programmer, from Latvia.</p>
 
 ###
 
